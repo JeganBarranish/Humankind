@@ -29,7 +29,7 @@ In the current situation, people are not able to avail proper medical services. 
 
 - To run the project you may clone the GitHub repository.
 
-  `https://github.com/AYUSH1382/Emergency-Medical-Servies.git`
+  
 
 - You may download `Tomcat Server ` and configure it to your IDE. 
 
@@ -54,6 +54,7 @@ In the current situation, people are not able to avail proper medical services. 
 
 
 ## Conclusion
+
 
 This project aims to build a strong community of a humanitarian cause. This website will help people during the emergency times. It even aims to increase employment.
 >>>>>>> 18697bb (Initial project upload)
